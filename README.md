@@ -1,6 +1,6 @@
 # Google Landing Page using React
 
-The Google Landing Page is a simple reponsive web application that replicates the google landing page.
+The Google Landing Page project is a simple reponsive web application that is a replica of the google landing page.
 
 ## Installation
 To run the Google Landing Page locally, follow these steps:
