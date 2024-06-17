@@ -2,6 +2,11 @@
 
 The Google Landing Page project is a simple reponsive web application that is a replica of the google landing page.
 
+### Deployed app: https://66700be64e55a6286a51fd6d--eclectic-moonbeam-ab5649.netlify.app/
+
+## Landing Page
+![](https://github.com/lawrencemasilo/Google_Landing_Page/blob/main/src/Screenshot%20(102).png)
+
 ## Installation
 To run the Google Landing Page locally, follow these steps:
 
